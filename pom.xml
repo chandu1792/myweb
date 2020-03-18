@@ -27,7 +27,7 @@
 
 	</dependencies>
 	
-	<distributionManagement>
+	<!--distributionManagement>
 		 <snapshotRepository>
 		    <id>nexus</id>
 		    <url>http://3.6.91.88:8081/repository/sai-snapshot/</url>
@@ -37,7 +37,7 @@
 		    <id>nexus</id>
 		    <url>http://3.6.91.88:8081/repository/sai-release/</url>
 		</repository>
-  	</distributionManagement>
+  	</distributionManagement-->
 	
 	<pluginRepositories>
 	    <pluginRepository>    
